@@ -1,0 +1,24 @@
+{
+  "name": "soulcode",
+  "owner": {
+    "name": "Jennifer Gräser",
+    "url": "https://www.soulcode-marketing.de"
+  },
+  "metadata": {
+    "description": "Skills und Assistenten für Claude, für spirituelle Coaches, Beraterinnen und Heilerinnen",
+    "version": "1.0.0",
+    "repository": "https://github.com/madeby123-bit/soulcode-skills"
+  },
+  "plugins": [
+    {
+      "name": "soulcode-skills",
+      "description": "64 deutsche Skills und 16 Assistenten für Sichtbarkeit, Content, Social Media, YouTube, Business und Schreiben. Von Instagram-Reels über Blogartikel und Verkaufsseiten bis Positionierung, Angebot, Funnel und Buchkapitel.",
+      "source": "./"
+    },
+    {
+      "name": "marketing-skills-englisch",
+      "description": "49 englische Marketing-Skills aus einem fremden Projekt unter MIT-Lizenz: Conversion, Copywriting, SEO, Ads, Pricing, Referrals und mehr. Herkunft siehe HERKUNFT.md.",
+      "source": "./marketing-skills-englisch"
+    }
+  ]
+}

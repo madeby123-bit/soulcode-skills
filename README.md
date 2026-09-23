@@ -17,16 +17,43 @@ Von Jennifer Gräser, [Soul Code Marketing](https://www.soulcode-marketing.de).
 | `skills/` | 64 deutschsprachige Skills, von mir gebaut |
 | `agents/` | 16 Assistenten mit eigenem Fachgebiet |
 | `marketing-skills-englisch/` | 49 englische Marketing-Skills aus einem fremden Projekt, MIT-lizenziert, siehe `HERKUNFT.md` in dem Ordner |
+| `.claude-plugin/` | Die Angaben, damit Claude Code alles mit einem Befehl installieren kann |
 
 ---
 
 ## Einbauen
 
-Du brauchst **Claude Code**. Die Anleitung zur Installation steht unter https://docs.claude.com/claude-code.
+Du brauchst **Claude Code**. Wie du es installierst, steht unter https://docs.claude.com/claude-code.
 
-### Alles auf einmal
+### Der einfache Weg: zwei Zeilen in Claude Code
 
-Öffne das Terminal und gib das hier ein:
+Starte Claude Code und tippe diese Zeile ein, dann Enter:
+
+```
+/plugin marketplace add madeby123-bit/soulcode-skills
+```
+
+Danach diese Zeile, wieder Enter:
+
+```
+/plugin install soulcode-skills@soulcode
+```
+
+Das war es. Alle Skills und Assistenten sind installiert. Du musst keine Ordner kopieren und nichts verschieben.
+
+Die englischen Marketing-Skills kommen nur dazu, wenn du sie willst:
+
+```
+/plugin install marketing-skills-englisch@soulcode
+```
+
+### Prüfen, ob es geklappt hat
+
+Tippe `/` und schau, ob die Skills in der Liste stehen. Mit `/plugin` siehst du, was installiert ist, und kannst es dort auch wieder entfernen.
+
+### Der manuelle Weg
+
+Wenn du die Dateien lieber selbst kopierst:
 
 ```bash
 git clone https://github.com/madeby123-bit/soulcode-skills.git
@@ -34,19 +61,7 @@ cp -R soulcode-skills/skills/* ~/.claude/skills/
 cp -R soulcode-skills/agents/* ~/.claude/agents/
 ```
 
-Die englischen Marketing-Skills kommen nur mit, wenn du sie willst:
-
-```bash
-cp -R soulcode-skills/marketing-skills-englisch/*/ ~/.claude/skills/
-```
-
-### Ohne Terminal
-
-Klick oben rechts auf den grünen Knopf **Code** und dann auf **Download ZIP**. Entpacke die Datei und kopiere die Ordner `skills` und `agents` in deinen Ordner `~/.claude/`. Den findest du im Finder über **Gehe zu → Gehe zum Ordner** und der Eingabe `~/.claude`.
-
-### Prüfen, ob es geklappt hat
-
-Starte Claude Code neu und tippe `/`. Dann sollten die Skills in der Liste auftauchen.
+Ohne Terminal geht es auch: oben rechts auf den grünen Knopf **Code**, dann **Download ZIP**, entpacken und die Ordner `skills` und `agents` in deinen Ordner `~/.claude/` legen. Den findest du im Finder über **Gehe zu → Gehe zum Ordner** und die Eingabe `~/.claude`.
 
 ---
 

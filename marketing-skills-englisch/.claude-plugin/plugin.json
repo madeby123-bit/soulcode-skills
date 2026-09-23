@@ -1,0 +1,9 @@
+{
+  "name": "marketing-skills-englisch",
+  "description": "49 englische Marketing-Skills, MIT-lizenziert, Herkunft siehe HERKUNFT.md",
+  "version": "1.0.0",
+  "author": { "name": "Corey Haines", "url": "https://github.com/coreyhaines31/marketingskills" },
+  "homepage": "https://github.com/coreyhaines31/marketingskills",
+  "license": "MIT",
+  "skills": "./skills"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "soulcode-skills",
+  "description": "64 deutsche Skills und 16 Assistenten für spirituelle Coaches, Beraterinnen und Heilerinnen",
+  "version": "1.0.0",
+  "author": { "name": "Jennifer Gräser", "url": "https://www.soulcode-marketing.de" },
+  "homepage": "https://github.com/madeby123-bit/soulcode-skills",
+  "repository": "https://github.com/madeby123-bit/soulcode-skills",
+  "skills": "./skills",
+  "agents": "./agents"
+}
