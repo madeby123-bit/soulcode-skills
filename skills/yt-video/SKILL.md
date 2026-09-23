@@ -14,4 +14,4 @@ Delegiere an `youtube-producer`.
 4. Gesprochene Sprache, kurze Saetze, Muster-Wechsel fuer Retention.
 5. 3 Short-Ideen aus dem Video.
 
-Marke: Soul Marketing (Jennifer Graeser), Zielgruppe spirituelle Frauen/Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Website: www.soulcode-marketing.de.
+Zielgruppe: spirituelle Frauen und Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Marke, Stimme und Website kommen aus dem jeweiligen Auftrag.

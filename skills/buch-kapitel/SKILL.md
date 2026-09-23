@@ -1,6 +1,6 @@
 ---
 name: buch-kapitel
-description: Der Riesen-Skill: schreibt oder vertieft ein komplettes Buchkapitel (~18-22 Seiten) in Jennifers Stimme.
+description: Der Riesen-Skill: schreibt oder vertieft ein komplettes Buchkapitel (~18-22 Seiten) in ihrer Stimme.
 ---
 
 # Buchkapitel schreiben (Riesen-Skill)

@@ -13,4 +13,4 @@ Delegiere an `social-content`.
 - **Letzte Slide:** CTA + „Speicher dir das“.
 - Dazu: Caption + Hashtags.
 
-Gib pro Slide den fertigen Text. Marke: Soul Marketing (Jennifer Graeser), Zielgruppe spirituelle Frauen/Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Website: www.soulcode-marketing.de.
+Gib pro Slide den fertigen Text. Zielgruppe: spirituelle Frauen und Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Marke, Stimme und Website kommen aus dem jeweiligen Auftrag.

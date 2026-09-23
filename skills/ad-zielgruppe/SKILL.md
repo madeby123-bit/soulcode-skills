@@ -11,4 +11,4 @@ description: Definiert Ad-Targeting: Interessen, Lookalikes, Custom Audiences, A
 - Custom Audiences (Website, IG-Interaktion).
 - Ausschluesse (bestehende Kundinnen).
 
-Gib 2-3 Ad-Set-Zielgruppen zum Testen. Marke: Soul Marketing (Jennifer Graeser), Zielgruppe spirituelle Frauen/Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Website: www.soulcode-marketing.de.
+Gib 2-3 Ad-Set-Zielgruppen zum Testen. Zielgruppe: spirituelle Frauen und Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Marke, Stimme und Website kommen aus dem jeweiligen Auftrag.

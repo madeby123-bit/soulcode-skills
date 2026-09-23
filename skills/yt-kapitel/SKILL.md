@@ -10,4 +10,4 @@ description: Erstellt YouTube-Kapitelmarken (Timecodes) aus einem Skript oder Tr
 2. Timecodes im Format `0:00 Titel` (erster MUSS 0:00 sein).
 3. Kurze, keyword-reiche Kapitelnamen.
 
-Wenn ein Video vorliegt, Transkript via `video-cutter`/Whisper holen. Marke: Soul Marketing (Jennifer Graeser), Zielgruppe spirituelle Frauen/Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Website: www.soulcode-marketing.de.
+Wenn ein Video vorliegt, Transkript via `video-cutter`/Whisper holen. Zielgruppe: spirituelle Frauen und Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Marke, Stimme und Website kommen aus dem jeweiligen Auftrag.

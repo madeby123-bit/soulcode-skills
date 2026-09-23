@@ -10,4 +10,4 @@ description: Definiert und wendet Untertitel-Styles im CapCut-Look an (Farbe, Gr
 - **Marke (mint):** PrimaryColour `&H00C9F0D6`, Outline schwarz.
 - **Highlight-Wort:** einzelne Woerter via ASS-Tags einfaerben.
 
-Gib den passenden Style-String fuer `/untertitel-burn`. Marke: Soul Marketing (Jennifer Graeser), Zielgruppe spirituelle Frauen/Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Website: www.soulcode-marketing.de.
+Gib den passenden Style-String fuer `/untertitel-burn`. Zielgruppe: spirituelle Frauen und Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Marke, Stimme und Website kommen aus dem jeweiligen Auftrag.

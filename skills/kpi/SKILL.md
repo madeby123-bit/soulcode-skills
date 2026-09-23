@@ -14,4 +14,4 @@ description: Definiert die richtigen KPIs und Startwerte fuers Tracking und trae
 2. Startwert + Zielwert je KPI.
 3. In `~/.claude/marketing/dashboard.md` (KPI-Tabelle) eintragen.
 
-Marke: Soul Marketing (Jennifer Graeser), Zielgruppe spirituelle Frauen/Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Website: www.soulcode-marketing.de.
+Zielgruppe: spirituelle Frauen und Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Marke, Stimme und Website kommen aus dem jeweiligen Auftrag.

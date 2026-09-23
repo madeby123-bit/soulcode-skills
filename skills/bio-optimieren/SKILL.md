@@ -11,4 +11,4 @@ description: Optimiert das Instagram-/TikTok-Profil: Name, Bio, Highlights, Link
 - **Link:** Website/Freebie/Buch.
 - **Highlights:** Start hier / Angebot / Ergebnisse / Ueber mich.
 
-Gib 3 Bio-Varianten. Marke: Soul Marketing (Jennifer Graeser), Zielgruppe spirituelle Frauen/Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Website: www.soulcode-marketing.de.
+Gib 3 Bio-Varianten. Zielgruppe: spirituelle Frauen und Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Marke, Stimme und Website kommen aus dem jeweiligen Auftrag.

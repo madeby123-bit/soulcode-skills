@@ -10,4 +10,4 @@ description: Gibt Empfehlungen zu Budget-Aufteilung und Skalierung von Kampagnen
 - Gewinner in 20%-Schritten hochskalieren; Verlierer pausieren.
 - Budget grob auf Angles verteilen, Gewinner bekommen mehr.
 
-Hinweis: Schalten/Zahlen macht Jennifer selbst im Werbekonto. Marke: Soul Marketing (Jennifer Graeser), Zielgruppe spirituelle Frauen/Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Website: www.soulcode-marketing.de.
+Hinweis: Schalten und Zahlen übernimmt sie selbst im Werbekonto. Zielgruppe: spirituelle Frauen und Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Marke, Stimme und Website kommen aus dem jeweiligen Auftrag.

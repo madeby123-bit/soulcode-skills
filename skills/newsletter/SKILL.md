@@ -13,4 +13,4 @@ Delegiere an `ghostwriter` (kleines „du“).
 - Ein Gedanke/Wert, persoenlich.
 - Ein CTA (Angebot/Freebie/Antwort).
 
-Hostinger-SMTP-Kontext: Soul-Marketing-Newsletter laeuft ueber die Website-Endpunkte. Marke: Soul Marketing (Jennifer Graeser), Zielgruppe spirituelle Frauen/Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Website: www.soulcode-marketing.de.
+Hostinger-SMTP-Kontext: Soul-Marketing-Newsletter laeuft ueber die Website-Endpunkte. Zielgruppe: spirituelle Frauen und Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Marke, Stimme und Website kommen aus dem jeweiligen Auftrag.

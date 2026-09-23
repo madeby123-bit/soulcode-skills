@@ -10,4 +10,4 @@ description: Optimiert YouTube-Titel auf hohe Klickrate (CTR) mit mehreren Varia
 - Zahlen, starke Verben, emotionaler Trigger.
 - Unter ~60 Zeichen sichtbar halten.
 
-Gib 8-10 Titel-Varianten, sortiert nach vermuteter CTR, mit kurzer Begruendung der Top 3. Marke: Soul Marketing (Jennifer Graeser), Zielgruppe spirituelle Frauen/Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Website: www.soulcode-marketing.de.
+Gib 8-10 Titel-Varianten, sortiert nach vermuteter CTR, mit kurzer Begruendung der Top 3. Zielgruppe: spirituelle Frauen und Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Marke, Stimme und Website kommen aus dem jeweiligen Auftrag.

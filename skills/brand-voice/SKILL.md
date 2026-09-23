@@ -1,6 +1,6 @@
 ---
 name: brand-voice
-description: Zentrale Referenz fuer Jennifers Markenstimmen (Buch vs. Marketing). Von allen Content-Skills genutzt.
+description: Zentrale Referenz fuer die Markenstimmen (Buch und Marketing). Von allen Content-Skills genutzt.
 ---
 
 # Markenstimme (Referenz)
@@ -16,4 +16,4 @@ description: Zentrale Referenz fuer Jennifers Markenstimmen (Buch vs. Marketing)
 - Resonanz statt Hype; ein Inhalt = eine Idee = eine Einladung.
 
 ## Marke
-Soul Marketing, Jennifer Graeser, www.soulcode-marketing.de. Optik: dunkel, pink/mint/gold, Schmetterlinge, edel. Buch „Erlaube es dir“ (Amazon KDP) als Cross-Sell.
+Marke, Inhaberin, Website und Optik kommen aus dem jeweiligen Auftrag. Frag danach, wenn sie fehlen, und halte sie über alle Texte hinweg konstant.

@@ -12,4 +12,4 @@ Delegiere an `ad-manager`.
 - Ueberschrift (kurz) + Beschreibung.
 - 3-5 Angles (verschiedene Schmerzpunkte) testen.
 
-Gib pro Angle eine fertige Anzeige. Kein Hard-Sell, Resonanz. Marke: Soul Marketing (Jennifer Graeser), Zielgruppe spirituelle Frauen/Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Website: www.soulcode-marketing.de.
+Gib pro Angle eine fertige Anzeige. Kein Hard-Sell, Resonanz. Zielgruppe: spirituelle Frauen und Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Marke, Stimme und Website kommen aus dem jeweiligen Auftrag.

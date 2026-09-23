@@ -14,4 +14,4 @@ Delegiere an `ghostwriter` (kleines „du“).
 - CTA (Newsletter/Angebot), interne Links.
 - Meta-Titel + Meta-Beschreibung.
 
-Marke: Soul Marketing (Jennifer Graeser), Zielgruppe spirituelle Frauen/Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Website: www.soulcode-marketing.de.
+Zielgruppe: spirituelle Frauen und Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Marke, Stimme und Website kommen aus dem jeweiligen Auftrag.

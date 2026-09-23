@@ -14,7 +14,7 @@ Von Jennifer Gräser, [Soul Code Marketing](https://www.soulcode-marketing.de).
 
 | Ordner | Inhalt |
 |---|---|
-| `skills/` | 65 deutschsprachige Skills, von mir gebaut |
+| `skills/` | 64 deutschsprachige Skills, von mir gebaut |
 | `agents/` | 16 Assistenten mit eigenem Fachgebiet |
 | `marketing-skills-englisch/` | 49 englische Marketing-Skills aus einem fremden Projekt, MIT-lizenziert, siehe `HERKUNFT.md` in dem Ordner |
 
@@ -105,7 +105,6 @@ Starte Claude Code neu und tippe `/`. Dann sollten die Skills in der Liste aufta
 | `/newsletter` | Schreibt eine E-Mail / einen Newsletter: eine Story, ein Gedanke, ein CTA. |
 | `/positionierung` | Schaerft Positionierung und USP: wofuer steht Soul Marketing, was macht es einzigartig, klare Botschaft. |
 | `/retargeting` | Baut eine Retargeting-Sequenz fuer warme Zielgruppen (Viewer/Besucher/Warenkorb). |
-| `/security-audit` | Security audit of a codebase — web apps, APIs, services, CLI tools, libraries, daemons, and more. Use when asked to find security bugs, do a security  |
 | `/short-aus-video` | Erstellt aus einem Langvideo einen 9:16-Short: Abschnitt schneiden, auf 1080x1920 bringen, Untertitel einbrennen. |
 | `/thumbnail-frame` | Extrahiert mit ffmpeg einen Einzelframe aus einem Video als Thumbnail-Bild. |
 | `/tiktok-ad` | Schreibt ein TikTok-Ad-Skript im nativen Creator-Stil (Spark-Ad-tauglich). |

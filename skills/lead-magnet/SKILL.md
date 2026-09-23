@@ -11,4 +11,4 @@ description: Entwirft ein Freebie/Lead-Magnet mit schnellem Ergebnis und Bruecke
 3. Titel + Inhalt + Bruecke zum naechsten Schritt (Angebot).
 4. Opt-in-Text (Landingpage/Story).
 
-PDF baubar via python/reportlab. Marke: Soul Marketing (Jennifer Graeser), Zielgruppe spirituelle Frauen/Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Website: www.soulcode-marketing.de.
+PDF baubar via python/reportlab. Zielgruppe: spirituelle Frauen und Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Marke, Stimme und Website kommen aus dem jeweiligen Auftrag.

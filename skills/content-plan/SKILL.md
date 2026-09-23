@@ -11,4 +11,4 @@ description: Erstellt einen Redaktionsplan/Content-Kalender fuer einen Zeitraum 
 3. Jeder Slot: Datum, Kanal, Format, Thema, Hook-Idee, CTA.
 4. Als Tabelle ausgeben und optional in `~/.claude/marketing/dashboard.md` (Content-Queue) ablegen.
 
-Marke: Soul Marketing (Jennifer Graeser), Zielgruppe spirituelle Frauen/Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Website: www.soulcode-marketing.de.
+Zielgruppe: spirituelle Frauen und Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Marke, Stimme und Website kommen aus dem jeweiligen Auftrag.

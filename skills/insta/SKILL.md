@@ -1,11 +1,11 @@
 ---
 name: insta
-description: Instagram-Content für Jennifers Zielgruppe spiritueller Frauen/Coaches erstellen (Caption, Reel-Skript, Karussell, Hook-Ideen). Nutzen wenn Jennifer Social-Media-Content für Soul Marketing oder ihr Buch braucht.
+description: Instagram-Content für spirituelle Frauen und Coaches erstellen (Caption, Reel-Skript, Karussell, Hook-Ideen). Nutzen wenn Social-Media-Content für die Marke oder ein Buch gebraucht wird.
 ---
 
 # Instagram-Content für spirituelle Frauen
 
-Erstellt Content in Jennifers Markenstimme für ihre Agentur **Soul Marketing** und ihr Buch **"Erlaube es dir"**.
+Erstellt Content in der jeweiligen Markenstimme, für die Agentur und die Bücher aus dem Auftrag.
 
 ## Stimme
 - Kleines „du", warm, ermutigend, klar. Resonanz statt Hype. Geld & Spiritualität versöhnen.
@@ -13,7 +13,7 @@ Erstellt Content in Jennifers Markenstimme für ihre Agentur **Soul Marketing** 
 - Ein Post = eine Idee = eine Einladung/Handlung.
 
 ## Die 3 Content-Säulen (aus Kap.9 des Buches)
-1. **Warum/Geschichte** – persönlich, verletzlich, roter Faden aus Jennifers Weg.
+1. **Warum/Geschichte** – persönlich, verletzlich, roter Faden aus dem eigenen Weg.
 2. **Wissen/Wert** – ein konkreter Gedanke, Tool oder Aha (Journaling, Scripting, Sichtbarkeit, Preis, Manifestation).
 3. **Einladung/Angebot** – zu Website, Buch, Check-up oder Kurs.
 

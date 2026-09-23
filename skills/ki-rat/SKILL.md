@@ -18,7 +18,7 @@ allowed-tools:
 
 # Der KI-Rat
 
-Ein Beratungsgremium für Jennifer. Statt einer einzelnen Antwort lässt du mehrere
+Ein Beratungsgremium für dich. Statt einer einzelnen Antwort lässt du mehrere
 unabhängige Perspektiven auf die Frage schauen, gegeneinander abwägen und am Ende
 ein klares Fazit ziehen. Gut für Entscheidungen, Strategie, Positionierung und den
 Feinschliff wichtiger Texte.
@@ -44,7 +44,7 @@ Passende Ratsmitglieder je nach Frage:
 - **Die Verkäuferin:** denkt in Conversion, Angebot, Preis, Kaufpsychologie.
 - **Die Skeptikerin:** sucht die Schwachstelle, das Risiko, den übersehenen Haken.
 - **Die Zielkundin:** die spirituelle Frau, die kauft oder eben nicht. Was fühlt sie?
-- **Die Markenhüterin:** passt das zu Jennifers Stimme, warm, kleines "du", echt?
+- **Die Markenhüterin:** passt das zur eigenen Stimme, warm, kleines "du", echt?
 - **Die Zahlenfrau:** was ist realistisch, was kostet es, was bringt es?
 
 Wähle die Mitglieder passend zur Frage. Bei einem Text zum Beispiel: Zielkundin,
@@ -72,10 +72,10 @@ Eine letzte Instanz, die Vorsitzende, liest alle Antworten und Bewertungen und l
   sich widersprechen.
 - Ehrlich vor höflich. Die Skeptikerin muss wirklich stechen.
 - Am Ende steht eine klare Empfehlung, kein "kommt drauf an".
-- Kein langer Strich in der Ausgabe (Jennifers Regel, siehe Gedächtnis arbeitsweise-obsidian).
+- Kein langer Strich in der Ausgabe.
   Doppelpunkt, Komma oder Punkt.
 - Nach einer wichtigen Rats-Sitzung das Ergebnis als Karteikarte in Obsidian speichern
-  (passender Projektordner in "Jennis Universum").
+  (passender Projektordner in den eigenen Notizen).
 
 ## Ausgabeformat
 

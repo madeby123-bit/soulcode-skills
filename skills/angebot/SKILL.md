@@ -11,4 +11,4 @@ description: Entwickelt ein verkaufbares Angebot mit dem Angebots-Baukasten (Nam
 - **Angebot:** Name, Versprechen, Form (Kurs/1:1/Gruppe), Umfang, Preis.
 - **Preis-Logik:** Preis dient der Kundin, Preis != Wert, mutig-aufregend = richtig.
 
-Ausgabe: 1 klares Angebot + 2 Preis-/Format-Varianten. Marke: Soul Marketing (Jennifer Graeser), Zielgruppe spirituelle Frauen/Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Website: www.soulcode-marketing.de.
+Ausgabe: 1 klares Angebot + 2 Preis-/Format-Varianten. Zielgruppe: spirituelle Frauen und Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Marke, Stimme und Website kommen aus dem jeweiligen Auftrag.

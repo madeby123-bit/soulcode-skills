@@ -10,4 +10,4 @@ description: Entwickelt Creative-Konzepte/Angles fuer Ads (Bild-/Video-Ideen pro
 2. Pro Angle: Format (Reel/Static/Karussell), Hook-Visual, On-Screen-Text.
 3. Testreihenfolge empfehlen.
 
-Fuer Videos an `video-cutter` (9:16 + Untertitel). Marke: Soul Marketing (Jennifer Graeser), Zielgruppe spirituelle Frauen/Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Website: www.soulcode-marketing.de.
+Fuer Videos an `video-cutter` (9:16 + Untertitel). Zielgruppe: spirituelle Frauen und Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Marke, Stimme und Website kommen aus dem jeweiligen Auftrag.

@@ -35,9 +35,9 @@ When given text to humanize:
 The draft, audit and final loop and the deliverable are defined under Process and Output, below.
 
 
-## Für Jennifer (Deutsch) — Vorrang vor allem anderen
+## Für deutsche Texte — Vorrang vor allem anderen
 
-Dieser Skill wird für Jennifer meist auf **deutschen** Texten laufen (Instagram, Bücher, Newsletter, Website). Halte dich zusätzlich an ihre festen Regeln (siehe Gedächtnis arbeitsweise-obsidian):
+Dieser Skill läuft meist auf **deutschen** Texten (Instagram, Bücher, Newsletter, Website). Halte dich zusätzlich an diese festen Regeln:
 
 1. **Kein langer Strich, niemals.** Geviertstrich und Halbgeviertstrich sind absolut verboten (ihr „KI-Wasserzeichen"). Ersetze durch Doppelpunkt, Komma oder Punkt. Normaler Bindestrich in Komposita bleibt erlaubt.
 2. **Deutsche KI-Floskeln zusätzlich streichen:** „in der heutigen schnelllebigen Welt", „es ist wichtig zu beachten", „zusammenfassend lässt sich sagen", „nicht nur … sondern auch", „von entscheidender Bedeutung", „tauche ein", „entfessle dein Potenzial", „in diesem Blogbeitrag werden wir", „Reise" als Metapher für alles, übertriebene Dreierketten, leere Übergänge wie „darüber hinaus".

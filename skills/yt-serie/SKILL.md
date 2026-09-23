@@ -11,4 +11,4 @@ description: Plant eine YouTube-Content-Serie / Playlist-Strategie fuer nachhalt
 3. Verknuepfung: End-Screens, Playlists, interne Verlinkung.
 4. 1 Anker-Video (Pillar) + darum Cluster.
 
-Ausgabe: Serien-Titel + Videoliste + Reihenfolge. Marke: Soul Marketing (Jennifer Graeser), Zielgruppe spirituelle Frauen/Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Website: www.soulcode-marketing.de.
+Ausgabe: Serien-Titel + Videoliste + Reihenfolge. Zielgruppe: spirituelle Frauen und Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Marke, Stimme und Website kommen aus dem jeweiligen Auftrag.

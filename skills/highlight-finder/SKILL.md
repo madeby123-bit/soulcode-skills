@@ -13,4 +13,4 @@ Delegiere an `video-cutter`.
 3. Pro Kandidat: Start/Ende-Timecode, Grund, Vorschlag-Hook-Text.
 4. Top 3-5 zur Short-Produktion vorschlagen.
 
-Marke: Soul Marketing (Jennifer Graeser), Zielgruppe spirituelle Frauen/Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Website: www.soulcode-marketing.de.
+Zielgruppe: spirituelle Frauen und Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Marke, Stimme und Website kommen aus dem jeweiligen Auftrag.

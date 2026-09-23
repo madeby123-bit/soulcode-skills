@@ -11,4 +11,4 @@ description: Schreibt eine Instagram-Story-Sequenz mit Interaktion (Umfrage/Frag
 5. Interaktion (Umfrage/Frage/Slider/Quiz).
 6. CTA (Link/DM-Wort/Swipe).
 
-Gib pro Frame Text + Sticker-Idee. Marke: Soul Marketing (Jennifer Graeser), Zielgruppe spirituelle Frauen/Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Website: www.soulcode-marketing.de.
+Gib pro Frame Text + Sticker-Idee. Zielgruppe: spirituelle Frauen und Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Marke, Stimme und Website kommen aus dem jeweiligen Auftrag.

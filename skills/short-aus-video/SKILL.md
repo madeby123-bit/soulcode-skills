@@ -12,4 +12,4 @@ Delegiere an `video-cutter`. Frag Start/Ende (oder nutze `/highlight-finder`).
 2. Auf 9:16 (mittiger Crop): `ffmpeg -i clip.mp4 -vf "crop=ih*9/16:ih,scale=1080:1920" -c:a copy vert.mp4`
 3. Untertitel: `/untertitel` -> `/untertitel-burn` auf vert.mp4.
 
-Ergebnis: fertiger Short. Marke: Soul Marketing (Jennifer Graeser), Zielgruppe spirituelle Frauen/Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Website: www.soulcode-marketing.de.
+Ergebnis: fertiger Short. Zielgruppe: spirituelle Frauen und Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Marke, Stimme und Website kommen aus dem jeweiligen Auftrag.

@@ -14,4 +14,4 @@ Delegiere an `social-content`.
 4. Jede fertige Einheit als Datei in `~/.claude/marketing/queue/JJJJ-MM-TT-kanal.md` ablegen.
 5. Content-Queue im Dashboard aktualisieren.
 
-Hinweis: echtes Auto-Posting braucht verbundenen Kanal (Meta Business Suite/Buffer). Marke: Soul Marketing (Jennifer Graeser), Zielgruppe spirituelle Frauen/Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Website: www.soulcode-marketing.de.
+Hinweis: echtes Auto-Posting braucht verbundenen Kanal (Meta Business Suite/Buffer). Zielgruppe: spirituelle Frauen und Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Marke, Stimme und Website kommen aus dem jeweiligen Auftrag.

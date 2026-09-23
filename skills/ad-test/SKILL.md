@@ -10,4 +10,4 @@ description: Erstellt einen sauberen A/B-Test-Plan (eine Variable pro Test) fuer
 - Klare Hypothese, Erfolgsmetrik, Mindestlaufzeit/Budget vor Bewertung.
 - Gewinner behalten, naechste Variable testen (iterativ).
 
-Gib eine Test-Roadmap (Test 1-4). Marke: Soul Marketing (Jennifer Graeser), Zielgruppe spirituelle Frauen/Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Website: www.soulcode-marketing.de.
+Gib eine Test-Roadmap (Test 1-4). Zielgruppe: spirituelle Frauen und Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Marke, Stimme und Website kommen aus dem jeweiligen Auftrag.

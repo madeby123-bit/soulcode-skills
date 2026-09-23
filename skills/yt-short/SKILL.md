@@ -14,4 +14,4 @@ Delegiere an `youtube-producer`.
 - **On-Screen-Text** + gesprochener Text getrennt angeben.
 - Kurzer CTA (Folgen/Kommentar-Wort).
 
-Liefere 3 Hook-Varianten. Marke: Soul Marketing (Jennifer Graeser), Zielgruppe spirituelle Frauen/Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Website: www.soulcode-marketing.de.
+Liefere 3 Hook-Varianten. Zielgruppe: spirituelle Frauen und Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Marke, Stimme und Website kommen aus dem jeweiligen Auftrag.

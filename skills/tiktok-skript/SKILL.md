@@ -13,4 +13,4 @@ Delegiere an `social-content`.
 - Ein Gedanke, klarer Payoff, offener Loop.
 - Trend-Sound optional.
 
-Gesprochener + On-Screen-Text, 3 Hook-Varianten, CTA. Marke: Soul Marketing (Jennifer Graeser), Zielgruppe spirituelle Frauen/Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Website: www.soulcode-marketing.de.
+Gesprochener + On-Screen-Text, 3 Hook-Varianten, CTA. Zielgruppe: spirituelle Frauen und Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Marke, Stimme und Website kommen aus dem jeweiligen Auftrag.

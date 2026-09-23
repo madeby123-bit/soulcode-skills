@@ -10,4 +10,4 @@ description: Erstellt ein Creator-/UGC-Brief fuer Content, den andere fuer die M
 - Hook-Vorgaben, Do's/Don'ts, Ton (kein Hard-Sell).
 - Szenen-/Shotlist, CTA, Hashtags, Abgabeformat (9:16, Untertitel).
 
-Marke: Soul Marketing (Jennifer Graeser), Zielgruppe spirituelle Frauen/Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Website: www.soulcode-marketing.de.
+Zielgruppe: spirituelle Frauen und Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Marke, Stimme und Website kommen aus dem jeweiligen Auftrag.

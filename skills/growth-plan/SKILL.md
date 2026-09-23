@@ -15,4 +15,4 @@ Delegiere an den Agenten `strategist`.
 5. Pro Woche: 1 Fokus, 3-5 Tasks, 1 KPI-Check.
 6. Schreib den Plan in `~/.claude/marketing/dashboard.md` (Abschnitt 90-Tage-Plan) und setze Startwerte der KPIs.
 
-Ausgabe: kompakte Tabelle Woche 1-12. Marke: Soul Marketing (Jennifer Graeser), Zielgruppe spirituelle Frauen/Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Website: www.soulcode-marketing.de.
+Ausgabe: kompakte Tabelle Woche 1-12. Zielgruppe: spirituelle Frauen und Coaches. Ton: warm, kleines „du“, Resonanz statt Hype, KEINE Gedankenstriche. Marke, Stimme und Website kommen aus dem jeweiligen Auftrag.
